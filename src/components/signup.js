@@ -67,11 +67,11 @@ export default class SignUp extends Component {
         </div>
 
         <div>
-          <button type="submit" className="buton"> Registrarse
+          <button type="submit" className="buton"> Registrate
           </button>
         </div>
         <p>
-           <a href="/sign-in">¿Ya tienes cuenta Entrar?</a>
+           <a href="/sign-in">¿Ya tienes cuenta?</a>
         </p>
  </div>
 
